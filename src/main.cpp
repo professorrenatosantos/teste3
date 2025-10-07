@@ -16,7 +16,7 @@ void print_menu() {
     std::cout << "\n===========================\n"
               << "       Mini Game Menu      \n"
               << "===========================\n"
-              << " 1) Game 1\n"
+              << " 1) Game 1 - Hot Cold\n"
               << " 2) Game 2\n"
               << " 3) Game 3\n"
               << " 0) Exit\n";
