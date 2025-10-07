@@ -27,7 +27,7 @@ int main() {
         print_menu();
         int opt = readIntInRange(0, 3, "Select option: ");
         if (opt == 0) {
-            std::cout << "Exiting... Bye!\n";
+            std::cout << "Exiting... seu cepo!!!!!\n";
             break;
         }
         std::cout << "You selected option " << opt << " (not implemented).\n";
